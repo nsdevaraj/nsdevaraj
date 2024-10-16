@@ -1,9 +1,9 @@
 <h1 align='center'> 
-  Hello  <a target="_blank">
+  Hi  <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a> I'm Devaraj 🧑🏻‍💻
 </h1>
-<h4 align ="center">I'm a software developer from Chennai, India🇮🇳 :) </h4>
+
 <p align='center'>
   
   <h3 align="center">Connect with me:</h3>
