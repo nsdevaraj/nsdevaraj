@@ -13,38 +13,7 @@
 </p>       
   </a>&nbsp;&nbsp;
 </p>
-
-<p align="center">
-  <a align="left" href="https://github.com/nsdevaraj">
-    <img height="195px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdevaraj&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=false" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a align="right" href="https://github.com/nsdevaraj">
-  <img height="195px" width="400" src="https://github-readme-stats.vercel.app/api?username=nsdevaraj&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&show_icons=true&count_private=true&layout=compact&hide_border=false" width="420"></a>
-  <br/>
-</p>
-
+ 
 <br/> 
  <br/>
- 
- <!--Current steak-->
-<p align="center" margin-left="6px">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsdevaraj&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
- <br/>
- 
- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-# 🍕 nsdevaraj's Top 8 Page🍕
-
-## nsdevaraj has 73 followers
-
-[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
---- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
-
-[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
---- | --- | --- | ---
-![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
+  
